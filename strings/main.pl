@@ -3,7 +3,7 @@ use warnings;
 
 sub main {
    quoting();
-   str_len(); 
+   str_len();
    casing();
 }
 

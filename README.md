@@ -12,3 +12,4 @@ is self contained and executable using `perl <script.pl>`.
 * [01 - Hello World](helloworld/main.pl)
 * [02 - Variables](variables/main.pl)
 * [03 - strings](strings/main.pl)
+* [04 - operators](operators/main.pl)
