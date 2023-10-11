@@ -9,4 +9,4 @@ is self contained and executable using `perl <script.pl>`.
 
 ### Table Of Contents:
 
-* [01 - Hello World](helloworld/main.go)
+* [01 - Hello World](helloworld/main.pl)
